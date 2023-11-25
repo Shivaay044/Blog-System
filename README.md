@@ -1,6 +1,6 @@
 
 
 ### start project : `npm start`
-### start server : `npm run servr`
+### start server : `npm run server`
 ### installation : `npm i`
 

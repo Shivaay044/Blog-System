@@ -1,0 +1,20 @@
+{
+  "blogs": [
+    {
+      "title": "Cancer Cure",
+      "username": "Shivendra",
+      "description": "When you have cancer, or care about someone who does, “cure” may be the word you want to hear more than any other. It’s also a word most doctors won’t say.\n\nUnlike other diseases, cancer has its own language: There’s no cure for it, but there are treatments that may be able to cure some people of some cancers.\n\nWhen you understand the difference, it makes all the difference.",
+      "date": "2023-11-25",
+      "image": "https://endeavor.moffitt.org/media/11293/cancer-cell-lymphocyte-lg.jpg?crop=0,0,0,0&cropmode=percentage&width=1440&height=650&rnd=133312320140000000",
+      "id": 1
+    },
+    {
+      "title": "Atoms",
+      "username": "Krish",
+      "description": "What is called an atom?\nAn atom is the basic building block of chemistry. It is the smallest unit into which matter can be divided without the release of electrically charged particles. It also is the smallest unit of matter that has the characteristic properties of a chemical element",
+      "date": "2023-11-25",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/330px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png",
+      "id": 2
+    }
+  ]
+}

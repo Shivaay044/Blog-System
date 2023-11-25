@@ -1,3 +1,3 @@
 
 
-export const apiUrl = "https://blog-bkd.onrender.com"
+export const apiUrl = "http://localhost:8080"

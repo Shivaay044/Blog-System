@@ -76,6 +76,7 @@ const AllBlogs = () => {
       <Box>
         {Blogs?.map((item, id) => (
           <Box  key={id} >
+          <NavLink  to={`/${item.id}`}>
             <Box
               marginTop={{ base: "1", sm: "5" }}
               display="flex"
@@ -153,6 +154,7 @@ const AllBlogs = () => {
                 />
               </Box>
             </Box>
+            </NavLink>
           </Box>
         ))}
       </Box>

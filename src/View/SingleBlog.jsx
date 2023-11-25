@@ -69,6 +69,7 @@ const AllBlogs = () => {
 
   return (
     <Container maxW={"7xl"} p="12">
+      <NavLink to=`$blogs/{id}`>
       <Box>
           <Box >
             <Box
@@ -148,6 +149,7 @@ const AllBlogs = () => {
             </Box>
           </Box>
       </Box>
+      </NavLink>
     </Container>
   );
 };
